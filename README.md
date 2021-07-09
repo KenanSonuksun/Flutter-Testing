@@ -1,8 +1,8 @@
-# Flutter Testing - Function Testing , Widget Testing , Unit Testing , Integration Testing
+# Flutter Testing - Function Testing , Widget Testing , Unit Testing , Integration Testing , Singleton
 
  This project is about flutter testing. The project includes "Function Testing", "Widget Testing" , "Unit Testing" , "Integration Testing"
  <br><br>
-The project was developed in Flutter, implemented by the server in the back-end interface, with layered software corporate architecture, SOLID software principles. 
+The project was developed in Flutter, implemented by the server in the back-end interface, with layered software corporate architecture, SOLID software principles. I used singleton for business logic. I did "Function Testing", "Widget Testing" , "Unit Testing" , "Integration Testing"
  <br><br>
 ## :card_index_dividers: Layers
 
